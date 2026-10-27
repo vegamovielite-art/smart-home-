@@ -1,0 +1,6 @@
+{
+  "name": "Smart Home",
+  "description": "Smart Home Automation app for ESP32 with local Wi-Fi REST API control for LEDs, Servo door, DC motor, and sensor telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

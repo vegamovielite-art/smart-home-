@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Smart WiFi Signal Waves on Top -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,23 A12,12 0 0,0 44,28 L46.5,30.5 A8.5,8.5 0 0,1 54,26.5 A8.5,8.5 0 0,1 61.5,30.5 L64,28 A12,12 0 0,0 54,23 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,29 A6,6 0 0,0 49,32 L51.5,34.5 A2.5,2.5 0 0,1 54,32.5 A2.5,2.5 0 0,1 56.5,34.5 L59,32 A6,6 0 0,0 54,29 Z" />
+
+    <!-- Main House Body & Roof -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,37 L28,58 L32.5,62 L37,58.4 L37,83 C37,84.1 37.9,85 39,85 L69,85 C70.1,85 71,84.1 71,83 L71,58.4 L75.5,62 L80,58 L54,37 Z" />
+
+    <!-- Inner Door / Automation Hub Node -->
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M48,65 L60,65 L60,85 L48,85 Z" />
+
+    <!-- Smart Light Indicator in Door -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,72 A3,3 0 1,0 54,72.01 Z" />
+
+    <!-- Smart Window Nodes -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M42,50 L48,50 L48,56 L42,56 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M60,50 L66,50 L66,56 L60,56 Z" />
+</vector>
